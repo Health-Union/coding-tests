@@ -19,7 +19,11 @@
  
 # Requirement:
 
-# The application stores tweets from Twitter.  There are too many Twitter handles to store all of the Tweets.  The application should import a sample of the users tweets.  The first time the handle is added the next 30 days of Tweets should be imported, then following that every 6 months 30 days of Tweets should be imported.  Please add code to the given example to implement this.
+# The application stores tweets from Twitter.  There are too many Twitter handles
+# to store all of the Tweets.  The application should import a sample of the users
+# tweets.  The first time the handle is added the next 30 days of Tweets should be 
+#imported, then following that every 6 months 30 days of Tweets should be imported. 
+# Please add code to the given example to implement this.
 
 
 class TweetImporter
